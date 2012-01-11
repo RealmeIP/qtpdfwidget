@@ -1,0 +1,23 @@
+<ui version="4.0" >
+ <class>MainMenuItems</class>
+ <widget class="QDialog" name="MainMenuItems" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Dialog</string>
+  </property>
+  <property name="autoFillBackground" >
+   <bool>false</bool>
+  </property>
+ </widget>
+ <resources>
+  <include location="QPdfResource.qrc" />
+ </resources>
+ <connections/>
+</ui>

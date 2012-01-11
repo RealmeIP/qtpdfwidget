@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>images/appexitLarge.png</file>
+        <file>images/appexitSmall.png</file>
+        <file>images/filecloseLarge.png</file>
+        <file>images/filecloseSmall.png</file>
+        <file>images/fileopenLarge.png</file>
+        <file>images/fileopenSmall.png</file>
+        <file>images/gotoLarge.png</file>
+        <file>images/gotoSmall.png</file>
+        <file>images/lastLarge.png</file>
+        <file>images/lastSmall.png</file>
+        <file>images/leftLarge.png</file>
+        <file>images/leftSmall.png</file>
+        <file>images/nextLarge.png</file>
+        <file>images/nextSmall.png</file>
+        <file>images/prevLarge.png</file>
+        <file>images/prevSmall.png</file>
+        <file>images/zoominLarge.png</file>
+        <file>images/zoominSmall.png</file>
+        <file>images/zoomoutLarge.png</file>
+        <file>images/zoomoutSmall.png</file>
+    </qresource>
+</RCC>
